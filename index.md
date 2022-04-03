@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Welcome to the ENLIGHT Statement website.
+![ENLIGHT Logo](logo.png)
+
+Welcome to the ENLIGHT Statement website!
