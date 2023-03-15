@@ -18,3 +18,13 @@ specific research question or context. A description of each item was provided i
 very satisfied with the consensus process, checklist, and guidelines. The ENLIGHT Checklist and Guidelines are the first consensus-based guidelines for documenting 
 and reporting ocular light-based interventions for human studies. The implementation of the checklist and guidelines will enhance the impact of light-based 
 research by ensuring comprehensive documentation and reproducibility and enabling data aggregation across studies.
+
+
+Steering Committee
+==================
+
+Manuel Spitschan
+Laura Kervezee
+Renske Lok
+Elise McGlashan
+Raymond P. Najjar
