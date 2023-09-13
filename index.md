@@ -37,6 +37,8 @@ Raymond P. Najjar PhD, National University of Singapore
 Endorsing institutions
 ======================
 
+[![VELUX Stiftung](logo_velux.png)](https://veluxstiftung.ch/)
+
 [![CET Logo](logo_cet.png)](https://cet.org/)
 
 
