@@ -27,6 +27,14 @@ Endorsing institutions
 [![CET Logo](logo_cet.png)](https://cet.org/)
 
 
+Support
+==================
+
+[![NETIAS CAT](logo_netias_.png)](http://netias.science/project_constructive-advanced-thinking)
+
+This work was made possible through the Network of European Institutes for Advanced Study (NetIAS) Constructive Advanced Thinking (CAT) programme.
+
+
 Steering Committee
 ==================
 
@@ -39,7 +47,6 @@ Steering Committee
 **[Elise McGlashan PhD](https://findanexpert.unimelb.edu.au/profile/1030083-elise-mcglashan)**, University of Melbourne
 
 **[Raymond P. Najjar PhD](https://discovery.nus.edu.sg/9565-raymond-najjar)**, National University of Singapore
-
 
 Contact
 =======
