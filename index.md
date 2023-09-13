@@ -30,15 +30,15 @@ Endorsing institutions
 Steering Committee
 ==================
 
-Manuel Spitschan PhD, Technical University of Munich & Max Planck Institute for Biological Cybernetics
+[Manuel Spitschan PhD](https://www.professoren.tum.de/en/spitschan-manuel), Technical University of Munich & Max Planck Institute for Biological Cybernetics
 
-Laura Kervezee PhD, Leiden University Medical Centre
+[Laura Kervezee PhD](https://ccb.lumc.nl/research/circadian-clocks-99/laura-kervezee-374), Leiden University Medical Centre
 
-Renske Lok PhD, Stanford University
+[Renske Lok PhD](https://profiles.stanford.edu/renske-lok), Stanford University
 
-Elise McGlashan PhD, University of Melbourne
+[Elise McGlashan PhD](https://findanexpert.unimelb.edu.au/profile/1030083-elise-mcglashan), University of Melbourne
 
-Raymond P. Najjar PhD, National University of Singapore
+[Raymond P. Najjar PhD](https://discovery.nus.edu.sg/9565-raymond-najjar), National University of Singapore
 
 
 Contact
