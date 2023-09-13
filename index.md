@@ -17,7 +17,7 @@ Downloads and links
 
 **[ENLIGHT Explanation & Elaboration (E&E) document](https://github.com/ENLIGHT-Project/ENLIGHT-Checklist/blob/00be2c6c04c41262c770c477e94ff611bcb59063/1.0.1/ENLIGHT_E%26E_Release_1.0.1_20230913.pdf)** (v1.0.1, 13 September 2023)
 
-**[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.532785v1) (doi:10.1101/2023.03.17.532785v1)**
+**[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.532785v1)** (doi:10.1101/2023.03.17.532785v1)
 
 
 Steering Committee
