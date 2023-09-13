@@ -9,7 +9,7 @@ Welcome to the website of the **ENLIGHT Checklist**!
 The ENLIGHT Checklist is the first consensus-based checklist for documenting and reporting ocular light-based interventions for human studies. They were developed with the input of international experts.
 
 
-
+ 
 
 Downloads and links
 ===================
@@ -21,7 +21,7 @@ Downloads and links
 **[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.532785v1)** (doi:10.1101/2023.03.17.532785v1)
 
 
-
+ 
 
 Endorsing institutions
 ======================
@@ -30,7 +30,7 @@ Endorsing institutions
 
 [![CET Logo](logo_cet.png)](https://cet.org/)
 
-
+ 
 
 
 Steering Committee
@@ -46,7 +46,7 @@ Steering Committee
 
 [Raymond P. Najjar PhD](https://discovery.nus.edu.sg/9565-raymond-najjar), National University of Singapore
 
-
+ 
 
 
 Contact
