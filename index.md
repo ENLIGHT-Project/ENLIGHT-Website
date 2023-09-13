@@ -30,7 +30,7 @@ Endorsing institutions
 Support
 ==================
 
-[![NETIAS CAT](logo_netias_.png)](http://netias.science/project_constructive-advanced-thinking)
+[![NETIAS CAT](logo_netias.png)](http://netias.science/project_constructive-advanced-thinking)
 
 This work was made possible through the Network of European Institutes for Advanced Study (NetIAS) Constructive Advanced Thinking (CAT) programme.
 
