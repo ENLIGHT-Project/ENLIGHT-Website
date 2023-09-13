@@ -37,7 +37,7 @@ Raymond P. Najjar PhD, National University of Singapore
 Endorsing institutions
 ======================
 
-![CET Logo](_assets/cet.png)
+![CET Logo](logo_cet.png)
 
 Center for Experimental Therapeutics ([https://cet.org/](https://cet.org/))
 
