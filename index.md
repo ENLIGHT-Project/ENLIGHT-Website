@@ -12,7 +12,7 @@ The ENLIGHT Checklist is the first consensus-based checklist for documenting and
 Downloads and links
 ===================
 
-**[ENLIGHT Checklist](https://github.com/ENLIGHT-Project/ENLIGHT-Checklist/blob/06ee653046cffe833753028c2b4bc71cdb6a711b/1.0.2/ENLIGHT_Checklist_Release_1.0.2_20231016.pdf)** (v1.0.1, 16 October 2023)
+**[ENLIGHT Checklist](https://github.com/ENLIGHT-Project/ENLIGHT-Checklist/blob/06ee653046cffe833753028c2b4bc71cdb6a711b/1.0.2/ENLIGHT_Checklist_Release_1.0.2_20231016.pdf)** (v1.0.2, 16 October 2023)
 
 **[ENLIGHT Explanation & Elaboration (E&E) document](https://github.com/ENLIGHT-Project/ENLIGHT-Checklist/blob/06ee653046cffe833753028c2b4bc71cdb6a711b/1.0.2/ENLIGHT_E%26E_Release_1.0.2_20231016.pdf)** (v1.0.2, 16 October 2023)
 
