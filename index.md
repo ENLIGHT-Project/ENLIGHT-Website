@@ -16,7 +16,7 @@ Downloads and links
 
 **[ENLIGHT Explanation & Elaboration (E&E) document](https://github.com/ENLIGHT-Project/ENLIGHT-Checklist/blob/06ee653046cffe833753028c2b4bc71cdb6a711b/1.0.2/ENLIGHT_E%26E_Release_1.0.2_20231016.pdf)** (v1.0.2, 16 October 2023)
 
-**[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.17.532785v1)** (doi:10.1101/2023.03.17.532785v1)
+**[Publication](https://doi.org/10.1016/j.ebiom.2023.104889)** [doi:10.1016/j.ebiom.2023.104889](https://doi.org/10.1016/j.ebiom.2023.104889)
 
 
 Endorsing institutions
