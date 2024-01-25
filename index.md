@@ -26,6 +26,7 @@ Endorsing institutions
 
 [![CET Logo](logo_cet.png)](https://cet.org/)
 
+[![SRS Logo](logo_srs.jpg)](https://sleepresearchsociety.org//)
 
 Support
 ==================
