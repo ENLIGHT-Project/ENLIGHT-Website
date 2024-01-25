@@ -19,8 +19,8 @@ Downloads and links
 **[Publication](https://doi.org/10.1016/j.ebiom.2023.104889)** ([doi:10.1016/j.ebiom.2023.104889](https://doi.org/10.1016/j.ebiom.2023.104889))
 
 
-Endorsing institutions
-======================
+Endorsing organisations
+=======================
 
 [![VELUX Stiftung](logo_velux.png)](https://veluxstiftung.ch/)
 
