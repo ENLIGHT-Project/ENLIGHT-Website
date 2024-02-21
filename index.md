@@ -28,9 +28,9 @@ Endorsing organisations
 
 [![SRS Logo](logo_srs.jpg)](https://sleepresearchsociety.org/)
 
-[![ACS Logo](logo_acs.png](https://australasianchronobiologysociety.org/)
+[![ACS Logo](logo_acs.png)](https://australasianchronobiologysociety.org/)
 
-[![CMHN Logo](logo_cmhn.png](https://www.circadianmentalhealth.org/)
+[![CMHN Logo](logo_cmhn.png)](https://www.circadianmentalhealth.org/)
 
 Support
 ==================
