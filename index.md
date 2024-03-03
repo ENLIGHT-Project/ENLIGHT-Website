@@ -22,15 +22,20 @@ Downloads and links
 Endorsing organisations
 =======================
 
-[![VELUX Stiftung](logo_velux.png)](https://veluxstiftung.ch/)
-
-[![CET Logo](logo_cet.png)](https://cet.org/)
+[![SRBR Logo](logo_srbr.png)](https://srbr.org/)
 
 [![SRS Logo](logo_srs.jpg)](https://sleepresearchsociety.org/)
 
+[![SLTBR Logo](logo_sltbr.png)](https://sltbr.org/)
+
 [![ACS Logo](logo_acs.png)](https://australasianchronobiologysociety.org/)
 
+[![CET Logo](logo_cet.png)](https://cet.org/)
+
 [![CMHN Logo](logo_cmhn.png)](https://www.circadianmentalhealth.org/)
+
+[![VELUX Stiftung](logo_velux.png)](https://veluxstiftung.ch/)
+
 
 Support
 ==================
